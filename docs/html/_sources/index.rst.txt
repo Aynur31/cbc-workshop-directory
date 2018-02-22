@@ -21,7 +21,7 @@ This site hosts the user directory for the current CBC workshop.  Below, you wil
 
 Please be sure to exclusively use your own instance.  These instances only have capacity for a single user, and multiple people sharing one can cause memory issues that will compromise your ability to follow along with the lecturer.
 
-If the HTML element below shows a 404 error, it means that there is no workshop being held at this time.  The directory will be purged upon the deactivation of the Amazon instances a few hours after any given workshop, and while no directory exists, a 404 error will be visible where the directory otherwise would appear.
+If the HTML element below shows a 404 error, it means that there is no workshop being held at this time.  The directory will be purged upon the deactivation of the Amazon instances a few hours after any given workshop, and while no directory exists, a 404 error will be visible where the directory otherwise would appear.  Whenever IPs are visible, you can assume that the corresponding instances are active.
 
 
 .. raw:: html
