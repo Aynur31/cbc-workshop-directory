@@ -28,7 +28,9 @@ If the HTML element below shows a 404 error, it means that there is no workshop 
 
    <p>Jupyter Instance Directory</p>
     <iframe src="_static/user_directory.html" height="750px" width="700px"></iframe>
+    <br>
 
+If you do not see your name in the above list, please log in through one of the instances tagged as 'Unassigned'.  If doing so without the in-person instruction of one of our staff, please email cbc-help@brown.edu and inform us that you've done so (along with the IP you used and your name) so we'll be able to best ensure nobody else tries to use that same instance.
 
 Contact
 =======
