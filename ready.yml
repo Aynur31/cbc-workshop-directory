@@ -1,0 +1,6 @@
+repo:             cbc-workshop-directory
+site_name:        CBC Workshop Directory
+site_author:      Andrew Leith
+site_description: CBC Workshop Directory
+site_url:         https://compbiocore.github.io/
+type:             workshop    # required. choose one of [software, tutorial, workshop, documentation] 
