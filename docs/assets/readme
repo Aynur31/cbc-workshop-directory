@@ -1,0 +1,1 @@
+This directory is used to host files - Travis will copy them into the assets/ directory on the gh-pages branch.
